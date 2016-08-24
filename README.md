@@ -134,36 +134,36 @@ If you want to push yourself and learn something new, optionally consider doing 
 
 ---
 
-## Project Groups
+<!--## Project Groups-->
 
-###### Who are my group members and assigned instructor?
+<!--###### Who are my group members and assigned instructor?-->
 
-#### Group 1 - Ben
+<!--#### Group 1 - Ben-->
 
-* Sophia
-* Bill
-* Switt
-* Aaron
+<!--* Sophia-->
+<!--* Bill-->
+<!--* Switt-->
+<!--* Aaron-->
 
-#### Group 2 - Melissa
+<!--#### Group 2 - Melissa-->
 
-* Ryan
-* Daniel
-* James
+<!--* Ryan-->
+<!--* Daniel-->
+<!--* James-->
 
-#### Group 3 - Justin
+<!--#### Group 3 - Justin-->
 
-* Meg
-* Jason
-* Ted
-* Tiffani
+<!--* Meg-->
+<!--* Jason-->
+<!--* Ted-->
+<!--* Tiffani-->
 
-#### Group 4 - Justin
+<!--#### Group 4 - Justin-->
 
-* Natalia
-* Paolo
-* David
-* Matt
+<!--* Natalia-->
+<!--* Paolo-->
+<!--* David-->
+<!--* Matt-->
 
 
 
