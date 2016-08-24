@@ -134,36 +134,36 @@ If you want to push yourself and learn something new, optionally consider doing 
 
 ---
 
-<!--## Project Groups-->
+## Project Groups
 
-<!--###### Who are my group members and assigned instructor?-->
+###### Who are my group members and assigned instructor?
 
-<!--#### Group 1 - Ben-->
+#### AIDE - Ben
 
-<!--* Sophia-->
-<!--* Bill-->
-<!--* Switt-->
-<!--* Aaron-->
+* Tiffani
+* The Duke of Tim Tams
+* Sophia
+* Switt, C.E.O.
 
-<!--#### Group 2 - Melissa-->
+#### Life After WDI - Ben
 
-<!--* Ryan-->
-<!--* Daniel-->
-<!--* James-->
+* Natalia
+* Matt
+* Paolo
+* Jaime
 
-<!--#### Group 3 - Justin-->
+### ROCK.ly - Justin
 
-<!--* Meg-->
-<!--* Jason-->
-<!--* Ted-->
-<!--* Tiffani-->
+* Meg-a-tron
+* JSON
+* Tedward
+* Rian
 
-<!--#### Group 4 - Justin-->
+#### Munilol - Melissa
 
-<!--* Natalia-->
-<!--* Paolo-->
-<!--* David-->
-<!--* Matt-->
+* Billiam
+* Daniel "Oh" Oh
+* David
 
 
 
