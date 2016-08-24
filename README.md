@@ -119,9 +119,9 @@ If you want to push yourself and learn something new, optionally consider doing 
 
 ###### When is it due?
 
-* **{{ENTER PROJECT PLANNING DELIVERABLES DATE HERE & TIME}}** - [Project planning deliverables](#project-planning-deliverables) due! Before beginning work on your project, your idea, project scope, and other planning deliverables must be approved by an instructor.
+* **Thurssday, August 25th , 1:30pm** - [Project planning deliverables](#project-planning-deliverables) due! Before beginning work on your project, your idea, project scope, and other planning deliverables must be approved by an instructor.
 
-* **{{ENTER PROJECT PRESENTATION AN DUE DATE HERE}}** - [Completed project deliverables](#completed-project-deliverables) due and presentations!
+* **Thursday, September 1st, 1:30** - [Completed project deliverables](#completed-project-deliverables) due and presentations!
 
 ---
 
@@ -138,40 +138,34 @@ If you want to push yourself and learn something new, optionally consider doing 
 
 ###### Who are my group members and assigned instructor?
 
-#### Group 1 - TBD (INSTRUCTOR)
+#### Group 1 - Ben
 
-* TBD
-* TBD
-* TBD
-* TBD
+* Sophia
+* Bill
+* Switt
+* Aaron
 
-#### Group 2 - TBD (INSTRUCTOR)
+#### Group 2 - Melissa
 
-* TBD
-* TBD
-* TBD
-* TBD
+* Ryan
+* Daniel
+* James
 
-#### Group 3 - TBD (INSTRUCTOR)
+#### Group 3 - Justin
 
-* TBD
-* TBD
-* TBD
-* TBD
+* Meg
+* Jason
+* Ted
+* Tiffani
 
-#### Group 4 - TBD (INSTRUCTOR)
+#### Group 4 - Justin
 
-* TBD
-* TBD
-* TBD
-* TBD
+* Natalia
+* Paolo
+* David
+* Matt
 
-#### Group 5 - TBD (INSTRUCTOR)
 
-* TBD
-* TBD
-* TBD
-* TBD
 
 ---
 
@@ -179,7 +173,7 @@ If you want to push yourself and learn something new, optionally consider doing 
 
 ###### What should we cover during our presentation?
 
-Each group will present their project on **{{ENTER PRESENTATION DATE HERE}}** starting at ** {{PRESENTATION TIME}}**. Please follow these guidelines:
+Each group will present their project on **Thursday, September 1st** starting at **1:30 PM**. Please follow these guidelines:
 
 * Your presentation should include the **motivation** for building this project and a **demo** of the core functionality.
 * **Maximum 20 minutes.**
