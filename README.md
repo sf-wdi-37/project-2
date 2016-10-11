@@ -18,35 +18,24 @@
 * **[Presentation Guidelines](#presentation-guidelines):** What should we cover during our presentation?
 * **[Project Feedback](#project-feedback):** How will we get feedback from instructors?
 
----
+
 
 ## Overview
 
-###### What is this project?
-
-For this project, you will use your knowledge of front-end and back-end web development to produce a polished web application that can be used by friends, family, or the wider online community -- and that will benefit your portfolio.
-
-**The objective of this project is to:**
-
-* Work with a group in a shared GitHub repository.
-* Plan and implement a larger scale project as part of a development team.
-* Integrate topics learned and experience gained in the course so far.
-* Showcase your abilities to potential employers, friends, family, and community members.
+For this project, you will use your knowledge of front-end and back-end web development to produce a polished Rails web application that can be used by friends, family, or the wider online community -- and that will benefit your portfolio.
 
 **You will be working in groups of 4 for this project.**
 
----
+
 
 ## Planning & Deliverables
-
-###### What will we be turning in?
 
 ### Project Planning Deliverables
 
 **You must review the following with your instructional team BEFORE you start to code.**
 
 * **Scope:** What are you planning to build? What do you reasonably think you can implement in the time period?
-* **User Stories:** Who is your user? What features will your app have? Set up your project and user stories in <a href="https://trello.com" target="_blank">Trello</a> or in some other organized format.
+* **User Stories:** Who is your user? What features will your app have? Set up your project and user stories in <a href="https://trello.com">Trello</a> or in some other organized format.
 * **Wireframes:** Sketch out what your core pages will look like and how they will work. Consider making a *paper prototype* to demonstrate and/or test key user interactions.
 * **Data Models:** Draw out the models and any associations for your project in an entity relationship diagram (ERD).
 * **Milestones:** Outline the milestones/sprints for your group.
@@ -64,11 +53,9 @@ For this project, you will use your knowledge of front-end and back-end web deve
   * Wish List / Future Development
   * Contributors (with links to their GitHub profiles)
 
----
+
 
 ## Technical Requirements
-
-###### What technologies will we be using?
 
 ### Core Technical Requirements
 
@@ -79,7 +66,6 @@ For this project, you will use your knowledge of front-end and back-end web deve
 * **Data Models** Include at least two data models with associations.
 * **Data Validation:** Your application should validate incoming data before entering it into the database.
 * **Error Handling:** Forms in your application should also validate data, handle incorrect inputs, and provide user feedback on the client side.
-* **Testing** Write specs for 25% of your controller functionality, as well as for any model methods.
 * **Views:** Use **partials** to follow DRY (Don’t Repeat Yourself) development in your views.
 * **Home & About Pages:** Create a landing page (homepage) that clearly explains your app's value proposition and guides the user through the "get started" funnel. Create an about page that includes photos and brief bios of your team members.
 * **User Experience:** Ensure a pleasing and logical user experience. Use a framework like Bootstrap to enhance and ease your CSS styling.
@@ -88,60 +74,48 @@ For this project, you will use your knowledge of front-end and back-end web deve
 
 ### Flexible Technical Requirements
 
-**Your app should have 3 out of the 5 following options:**
+**Your app should have 4 out of the 8 following options:**
 
-* **User Login** Make sure you have authentication *and* authorization.
-* **AJAX** Use AJAX to communicate with the server without reloading the page when appropriate.
-* **External APIs** Use HTTParty or a third-party API back-end gem to integrate third-party data into your app.
-* **Paperclip** Upload files with Paperclip.
+* **Authentication & Authorization** Allow users to sign up, log in, log out, and access restricted portions of the site. 
+* **AJAX** Use AJAX to communicate with the server without reloading the page, when appropriate.
+* **External API** Use HTTParty or a third-party API gem to integrate third-party data into your app. Remember to hide secret keys!
+* **File Uploads** Upload files with solutions like Paperclip or UploadCare.  Remember to hide secret keys!
 * **JavaScript & jQuery:** Add dynamic client-side behavior with event-driven functionality.
-* **User-Friendly URLs:** Make pretty URLs that don't expose database IDs.
+* **User-Friendly URLs:** Make "pretty" URLs that don't expose database IDs. Consider using a gem like FriendlyId.
+* **Testing** Use `rspec-rails` and `shoulda-matchers` to write specs for any custom model methods and all model validations. Take it further with tests for controller actions. 
+* **Additional Associations**  Incorporate more complex data with additional associated models. Carry through data valdiation and error handling for additional resource(s). 
 
 ---
 
-## Further Exploration
-
-###### What if we want to do more?
+### Further Exploration
 
 If you want to push yourself and learn something new, optionally consider doing any of the following ideas. *Please talk to an instructor beforehand.*
 
 * **Charting:** Visualize your data! Possibilities include D3, Morris.js, Highcharts, Chart.js, and Google Charts.
-* **Job Scheduling:** Set up a job-scheduler like Sidekiq, Delayed Job, or Resque to queue actions that don't need to run immediately.
-* **Emails:** Use ActionMailer to send emails to your users.
-* **Text Messaging:** Use Twilio to send texts to your users (note: not free).
 * **Payment:** Use Stripe to allow your users to purchase from or donate to your site.
 * **Material Design:** Research the material design paradigm and apply it to ground your app's UI in the physical realm.
 * **CSS Animations:** Use jQuery or animate.css to include animations on your site.
 * **Accessibility:** Research web accessibility (e.g. for blind users), and apply accessibility principles to your app.
 * **Sessions:** Use sessions to store data for site visitors (who aren't necessarily logged in).
 * **Search:** Build a form that allows users to search your data, based on attributes. Consider looking into Elasticsearch to speed up queries.
+* **Job Scheduling:** Set up a job-scheduler like Delayed Job or Resque to queue actions that don't need to run immediately.
+* **Emails:** Use ActionMailer to send emails to your users.
+* **Text Messaging:** Use Twilio to send texts to your users (note: not free).
 * **Whatever else you can think of!**
 
----
 
-## Deadlines
 
-###### When is it due?
+### Deadlines
 
-* **Thursday, August 25th , 1:30pm** - [Project planning deliverables](#project-planning-deliverables) due! Before beginning work on your project, your idea, project scope, and other planning deliverables must be approved by an instructor.
+* **Thursday, October 13th, by 4:30pm** - [Project planning deliverables](#project-planning-deliverables) due! Get your project plan approved by end of day so you can get started coding!
 
-* **Thursday, September 1st, 1:30** - [Completed project deliverables](#completed-project-deliverables) due and presentations!
+* **Thursday, October 20th, 1:15** - [Completed project deliverables](#completed-project-deliverables) due and presentations!
 
----
-
-## Submission
-
-###### How do we turn in the project?
-
-* As you make code changes, **frequently commit and push to GitHub**.
 
 
 <!---
 
 ## Project Groups
-
-###### Who are my group members and assigned instructor?
-
 
 
 #### AIDE - Ben
@@ -177,8 +151,6 @@ If you want to push yourself and learn something new, optionally consider doing 
 
 ## Presentation Guidelines
 
-###### What should we cover during our presentation?
-
 Each group will present their project on **Thursday, September 1st** starting at **1:30 PM**. Please follow these guidelines:
 
 * Your presentation should include the **motivation** for building this project and a **demo** of the core functionality.
@@ -193,10 +165,8 @@ Each group will present their project on **Thursday, September 1st** starting at
   * What was the most challenging aspect? Was there anything that was surprisingly easy to implement?
   * What did you learn?
 
----
+
 
 ## Project Feedback
-
-###### How will we get feedback from instructors?
 
 See the [feedback doc](./project2-feedback.md) for details.
