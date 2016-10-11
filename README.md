@@ -17,13 +17,13 @@ For this project, you will use your knowledge of front-end and back-end web deve
 
 **You must review the following with your instructional team BEFORE you start to code.**
 
-* **Elevator Pitch:** Who is your user? How will your app help them solve a problem or achieve a goal?
+* **Motivation:** Who is your user? How will your app help them solve a problem or achieve a goal?
 * **Scope:** What are you planning to build? What do you reasonably think you can implement in the time period?
-* **User Stories:** What will users be able to do with your app? Set up your project and user stories in <a href="https://trello.com">Trello</a> or in some other organized format.
+* **User Stories:** What will users be able to do with your app? 
 * **Wireframes:** Sketch out what your core pages will look like and how they will connect (site flow). Consider making a detailed *site flow diagram* or even a *paper prototype* to demonstrate and/or test key user interactions.
 * **Data Models:** Draw out the models and any associations for your project in an entity relationship diagram (ERD).
 * **Milestones:** Outline the milestones/sprints for your group.
-* **Delegating Tasks:** What will each group member work on? Leverage everyone's strengths, and spend the majority of coding time pair programming.
+* **Delegating Tasks:** How will you track and delegate tasks? How will you handle git and GitHub? Set up your project tracking in <a href="https://trello.com">Trello</a> or in some other organized, online format.
 
 ### Completed Project Deliverables
 
