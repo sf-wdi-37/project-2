@@ -1,5 +1,9 @@
 # <img src="https://cloud.githubusercontent.com/assets/7833470/10899314/63829980-8188-11e5-8cdd-4ded5bcb6e36.png" height="60"> Project 2 - Rails Group Project
 
+
+
+![](http://vignette3.wikia.nocookie.net/thebooksofkyl/images/b/b3/Website_under_construction.gif/revision/latest/scale-to-width-down/574?cb=20130225022514)
+
 **Read this entire document before writing a line of code.**
 
 ## Contents
@@ -20,7 +24,7 @@
 
 ###### What is this project?
 
-For the second project, you will use your knowledge of front-end and back-end web development to produce a polished web application that can be used by friends, family, or the wider online community -- and that will benefit your portfolio.
+For this project, you will use your knowledge of front-end and back-end web development to produce a polished web application that can be used by friends, family, or the wider online community -- and that will benefit your portfolio.
 
 **The objective of this project is to:**
 
@@ -132,11 +136,13 @@ If you want to push yourself and learn something new, optionally consider doing 
 * As you make code changes, **frequently commit and push to GitHub**.
 
 
----
+<!---
 
 ## Project Groups
 
 ###### Who are my group members and assigned instructor?
+
+
 
 #### AIDE - Ben
 
@@ -167,7 +173,7 @@ If you want to push yourself and learn something new, optionally consider doing 
 
 
 
----
+--->
 
 ## Presentation Guidelines
 
