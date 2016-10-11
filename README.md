@@ -85,9 +85,8 @@ For this project, you will use your knowledge of front-end and back-end web deve
 * **Testing** Use `rspec-rails` and `shoulda-matchers` to write specs for any custom model methods and all model validations. Take it further with tests for controller actions. 
 * **Additional Associations**  Incorporate more complex data with additional associated models. Carry through data valdiation and error handling for additional resource(s). 
 
----
 
-### Further Exploration
+## Further Exploration Ideas
 
 If you want to push yourself and learn something new, optionally consider doing any of the following ideas. *Please talk to an instructor beforehand.*
 
@@ -105,7 +104,7 @@ If you want to push yourself and learn something new, optionally consider doing 
 
 
 
-### Deadlines
+## Deadlines
 
 * **Thursday, October 13th, by 4:30pm** - [Project planning deliverables](#project-planning-deliverables) due! Get your project plan approved by end of day so you can get started coding!
 
