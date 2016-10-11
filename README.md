@@ -1,23 +1,8 @@
 # <img src="https://cloud.githubusercontent.com/assets/7833470/10899314/63829980-8188-11e5-8cdd-4ded5bcb6e36.png" height="60"> Project 2 - Rails Group Project
 
-
-
 ![](http://vignette3.wikia.nocookie.net/thebooksofkyl/images/b/b3/Website_under_construction.gif/revision/latest/scale-to-width-down/574?cb=20130225022514)
 
 **Read this entire document before writing a line of code.**
-
-## Contents
-
-* **[Overview](#overview):** What is this project?
-* **[Planning & Deliverables](#planning--deliverables):** What will we be turning in?
-* **[Technical Requirements](#technical-requirements):** What technologies will we be using?
-* **[Further Exploration](#further-exploration):** What if we want to do more?
-* **[Deadlines](#deadlines):** When is it due?
-* **[Submission](#submission):** How do we turn in the project?
-* **[Project Groups](#project-groups):** Who are my group members and assigned instructor?
-* **[Presentation Guidelines](#presentation-guidelines):** What should we cover during our presentation?
-* **[Project Feedback](#project-feedback):** How will we get feedback from instructors?
-
 
 
 ## Overview
@@ -26,34 +11,30 @@ For this project, you will use your knowledge of front-end and back-end web deve
 
 **You will be working in groups of 4 for this project.**
 
-
-
-## Planning & Deliverables
+## Deliverables
 
 ### Project Planning Deliverables
 
 **You must review the following with your instructional team BEFORE you start to code.**
 
 * **Scope:** What are you planning to build? What do you reasonably think you can implement in the time period?
-* **User Stories:** Who is your user? What features will your app have? Set up your project and user stories in <a href="https://trello.com">Trello</a> or in some other organized format.
-* **Wireframes:** Sketch out what your core pages will look like and how they will work. Consider making a *paper prototype* to demonstrate and/or test key user interactions.
+* **User Stories:** Who is your user? What features will your app have to help them? Set up your project and user stories in <a href="https://trello.com">Trello</a> or in some other organized format.
+* **Wireframes:** Sketch out what your core pages will look like and how they will connect (site flow). Consider making a detailed *site flow diagram* or even a *paper prototype* to demonstrate and/or test key user interactions.
 * **Data Models:** Draw out the models and any associations for your project in an entity relationship diagram (ERD).
 * **Milestones:** Outline the milestones/sprints for your group.
 * **Delegating Tasks:** What will each group member work on? Leverage everyone's strengths, and spend the majority of coding time pair programming.
 
 ### Completed Project Deliverables
 
-* Link to Heroku hosted project, with all core technical requirements and three flexible technical requirements complete.
+* Link to Heroku hosted project, with all core technical requirements and correct number of flexible technical requirements complete.
 * Link to source code on GitHub.
 * A `README.md` file with the following:
   * Description: Short paragraph (2-3 sentences) "elevator pitch" describing what your project does
-  * Wireframes and user stories
-  * Link to Heroku hosted project
+  * Wireframes and user stories (or a link to Trello with wireframes)
+  * Link to Heroku-hosted project
   * Technologies (languages, external libraries, APIs)
   * Wish List / Future Development
   * Contributors (with links to their GitHub profiles)
-
-
 
 ## Technical Requirements
 
@@ -103,12 +84,11 @@ If you want to push yourself and learn something new, optionally consider doing 
 * **Whatever else you can think of!**
 
 
-
 ## Deadlines
 
 * **Thursday, October 13th, by 4:30pm** - [Project planning deliverables](#project-planning-deliverables) due! Get your project plan approved by end of day so you can get started coding!
 
-* **Thursday, October 20th, 1:15** - [Completed project deliverables](#completed-project-deliverables) due and presentations!
+* **Thursday, October 20th, 1:15pm** - [Completed project deliverables](#completed-project-deliverables) due and presentations!
 
 
 
@@ -150,20 +130,20 @@ If you want to push yourself and learn something new, optionally consider doing 
 
 ## Presentation Guidelines
 
-Each group will present their project on **Thursday, September 1st** starting at **1:30 PM**. Please follow these guidelines:
+Each group will present their project on **Thursday, October 20th** starting at **1:15pm**. Please follow these guidelines:
 
-* Your presentation should include the **motivation** for building this project and a **demo** of the core functionality.
 * **Maximum 20 minutes.**
-* **Minimum 5 slides.** Slides should include:
+* **Minimum 5 slides.** 
+* **Presentation should include:**
+  * Who is the user?
+  * Motivation for building this project
   * Wireframes
   * User stories
   * ERDs
+  * Demo of some interesting feature, something unique or creative your group chose to do
   * Walk through the development of one feature from ideation to execution. At minimum, this should include wireframes, code samples, and the final result.
-* **ALL group members must speak during the presentation.** Each group member should answer the following:
-  * What parts of the project did you work on?
-  * What was the most challenging aspect? Was there anything that was surprisingly easy to implement?
-  * What did you learn?
-
+  
+**Each member of your group should speak for equal parts during your presentation** and mention which parts of the project they worked on.
 
 
 ## Project Feedback
