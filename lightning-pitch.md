@@ -2,9 +2,11 @@
 
 For Project 2, you will be working in groups of 4 to build a full-stack Rails application.
 
-Everyone must submit an idea for Project 2, and we encourage each person to pitch at least one idea for the class. 
+**Everyone will pitch an idea for Project 2.**
 
-After hearing the pitches, you'll rank the projects in order of what you would prefer to build. We'll use these preferences to pick the four project ideas and put together the groups.
+Additional pitches may be allowed based on time. 
+
+After hearing the pitches, you'll have an opportunity to narrow down what you'd be most interested in building.  The teaching team will use these preferences when we pick the four projects moving forward and put together the groups.
 
 ### Pitch Guidelines
 
@@ -16,6 +18,7 @@ After hearing the pitches, you'll rank the projects in order of what you would p
   * Who is your user, and how does your app make their life better?
   * What technologies would you use that we haven't covered in class (if any)?
   
-3. No slides. Use the whiteboard to draw any visuals you need.
+3. No slides. You may use the whiteboard to draw any visuals you need.
+
 
 ![idea](https://cloud.githubusercontent.com/assets/7833470/12076308/f9c057fa-b15a-11e5-9c0a-38342e79b1da.gif)
