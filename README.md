@@ -1,7 +1,5 @@
 # <img src="https://cloud.githubusercontent.com/assets/7833470/10899314/63829980-8188-11e5-8cdd-4ded5bcb6e36.png" height="60"> Project 2 - Rails Group Project
 
-![](http://vignette3.wikia.nocookie.net/thebooksofkyl/images/b/b3/Website_under_construction.gif/revision/latest/scale-to-width-down/574?cb=20130225022514)
-
 **Read this entire document before writing a line of code.**
 
 ## Overview
@@ -27,7 +25,8 @@ For this project, you will use your knowledge of front-end and back-end web deve
 ### Completed Project Deliverables
 
 * Link to Heroku hosted project, with all core technical requirements and correct number of flexible technical requirements complete.
-* Link to source code on GitHub.
+* Link to on each team member's personal site to the hosted project.
+* A link on the GitHub repo to the hosted project. 
 * A `README.md` file with the following:
   * Description: Short paragraph (2-3 sentences) "elevator pitch" describing what your project does
   * Wireframes and user stories (or a link to Trello with wireframes)
