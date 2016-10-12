@@ -4,7 +4,6 @@
 
 **Read this entire document before writing a line of code.**
 
-
 ## Overview
 
 For this project, you will use your knowledge of front-end and back-end web development to produce a polished Rails web application that can be used by friends, family, or the wider online community -- and that will benefit your portfolio.
@@ -50,28 +49,31 @@ For this project, you will use your knowledge of front-end and back-end web deve
 * **Error Handling:** Forms in your application should also validate data, handle incorrect inputs, and provide user feedback on the client side.
 * **Views:** Use **partials** to follow DRY (Don’t Repeat Yourself) development in your views.
 * **Home & About Pages:** Create a landing page (homepage) that clearly explains your app's value proposition and guides the user through the "get started" funnel. Create an about page that includes photos and brief bios of your team members.
-* **User Experience:** Ensure a pleasing and logical user experience. Use a framework like Bootstrap to enhance and ease your CSS styling.
+* **User Experience:** Ensure a pleasing and logical user experience. Have at least one person from outside your team attempt to use your project, noting points of confusion.
+* **Custom Styling:** Use the Asset Pipeline and your front-end skills to create custom styles with CSS or SCSS.   Use a framework like Bootstrap to enhance and ease your CSS styling.
 * **Responsive Design:** Make sure your app looks great on a phone or tablet.
 * **Heroku:** Deploy your app to Heroku. Ensure no app secrets are exposed. *Do not commit secret keys to GitHub!*
 
 ### Flexible Technical Requirements
 
-**Your app should have 4 out of the 8 following options:**
+**Your app should have 3 out of the 6 following options:**
 
 * **Authentication & Authorization** Allow users to sign up, log in, log out, and access restricted portions of the site. 
-* **AJAX** Use AJAX to communicate with the server without reloading the page, when appropriate.
 * **External API** Use HTTParty or a third-party API gem to integrate third-party data into your app. Remember to hide secret keys!
-* **File Uploads** Upload files with solutions like Paperclip or UploadCare.  Remember to hide secret keys!
-* **JavaScript & jQuery:** Add dynamic client-side behavior with event-driven functionality.
+* **JavaScript & jQuery:** Add dynamic behavior with event-driven functionality on the client side.
 * **User-Friendly URLs:** Make "pretty" URLs that don't expose database IDs. Consider using a gem like FriendlyId.
 * **Testing** Use `rspec-rails` and `shoulda-matchers` to write specs for any custom model methods and all model validations. Take it further with tests for controller actions. 
 * **Additional Associations**  Incorporate more complex data with additional associated models. Carry through data valdiation and error handling for additional resource(s). 
+
 
 
 ## Further Exploration Ideas
 
 If you want to push yourself and learn something new, optionally consider doing any of the following ideas. *Please talk to an instructor beforehand.*
 
+
+* **File Uploads** Upload files with solutions like Paperclip or UploadCare.  Remember to hide secret keys!
+* **AJAX** Use AJAX to communicate with the server without reloading the page, when appropriate.
 * **Charting:** Visualize your data! Possibilities include D3, Morris.js, Highcharts, Chart.js, and Google Charts.
 * **Payment:** Use Stripe to allow your users to purchase from or donate to your site.
 * **Material Design:** Research the material design paradigm and apply it to ground your app's UI in the physical realm.
