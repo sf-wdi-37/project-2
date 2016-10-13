@@ -94,42 +94,6 @@ If you want to push yourself and learn something new, optionally consider doing 
 
 
 
-<!---
-
-## Project Groups
-
-
-#### AIDE - Ben
-
-* Tiffani
-* The Duke of Tim Tams
-* Sophia
-* Switt, C.E.O.
-
-#### Life After WDI - Ben
-
-* Natalia
-* Matt
-* Paolo
-* Jaime
-
-### ROCK.ly - Justin
-
-* Meg-a-tron
-* JSON
-* Tedward
-* Rian
-
-#### Munilol - Melissa
-
-* Billiam
-* Daniel "Oh" Oh
-* David
-
-
-
---->
-
 ## Presentation Guidelines
 
 Each group will present their project on **Thursday, October 20th** starting at **1:15pm**. Please follow these guidelines:
