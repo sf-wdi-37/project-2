@@ -1,24 +1,25 @@
 # WDI 31 Project Groups
 
-###NGO Donations 
+###NGO Donations  (Brianna)  
 -  Andrew C  
 -  Sherie  
 -  Lisa  
 -  William  
+  
 
-###Location Photo Sharing   
+###Location Photo Sharing  (Cory)  
 -  Sera
 -  Ashley  
 -  Mikey  
 -  Wolf  
 
-###Mental Health Logs  
+###Mental Health Logs  (Brianna)  
 -  Nick  
 -  Misha  
 -  Laura  
 -  Sam  
 
-###StorageSpace  
+###StorageSpace  (Cory)    
 -  Zach  
 -  Andrew V  
 -  Scott  
