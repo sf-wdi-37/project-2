@@ -70,20 +70,21 @@ For this project, you will use your knowledge of front-end and back-end web deve
 
 If you want to push yourself and learn something new, optionally consider doing any of the following ideas. *Please talk to an instructor beforehand.*
 
-
-* **File Uploads** Upload files with solutions like Paperclip or UploadCare.  Remember to hide secret keys!
 * **AJAX** Use AJAX to communicate with the server without reloading the page, when appropriate.
-* **Charting:** Visualize your data! Possibilities include D3, Morris.js, Highcharts, Chart.js, and Google Charts.
-* **Payment:** Use Stripe to allow your users to purchase from or donate to your site.
 * **Material Design:** Research the material design paradigm and apply it to ground your app's UI in the physical realm.
 * **CSS Animations:** Use jQuery or animate.css to include animations on your site.
-* **Accessibility:** Research web accessibility (e.g. for blind users), and apply accessibility principles to your app.
-* **Sessions:** Use sessions to store data for site visitors (who aren't necessarily logged in).
+* **SASS/SCSS:** Write DRYer styles with a language that compiles into CSS, and take advantage of the asset pipeline to process them easily. 
 * **Search:** Build a form that allows users to search your data, based on attributes. Consider looking into Elasticsearch to speed up queries.
-* **Job Scheduling:** Set up a job-scheduler like Delayed Job or Resque to queue actions that don't need to run immediately.
+* **Accessibility:** Research web accessibility (e.g. for blind users), and apply accessibility principles to your app.
+* **File Uploads** Upload files with solutions like Paperclip, CarrierWave, or UploadCare.  Remember to hide secret keys!
 * **Emails:** Use ActionMailer to send emails to your users.
-* **Text Messaging:** Use Twilio to send texts to your users (note: not free).
+* **Sessions:** Use sessions to store data for site visitors (who aren't necessarily logged in).
+* **Charting:** Visualize your data! Possibilities include D3, Morris.js, Highcharts, Chart.js, and Google Charts.
+* **Payment:** Use Stripe to allow your users to purchase from or donate to your site.
+* **Job Scheduling:** Set up a job-scheduler like Delayed Job or Resque to queue actions that don't need to run immediately.
+* **Text Messaging:** Use Twilio or a similar gem to send texts to your users (note: not free).
 * **Whatever else you can think of!**
+
 
 
 ## Deadlines
