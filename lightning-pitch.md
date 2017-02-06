@@ -21,4 +21,4 @@ After hearing the pitches, you'll have an opportunity to narrow down what you'd 
 3. No slides. You may use the whiteboard to draw any visuals you need.
 
 
-![idea](https://cloud.githubusercontent.com/assets/7833470/12076308/f9c057fa-b15a-11e5-9c0a-38342e79b1da.gif)
+![idea gif - burning lightbulb](https://cloud.githubusercontent.com/assets/7833470/12076308/f9c057fa-b15a-11e5-9c0a-38342e79b1da.gif)
