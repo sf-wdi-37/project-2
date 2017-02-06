@@ -14,8 +14,8 @@ After hearing the pitches, you'll have an opportunity to narrow down what you'd 
 
 
 2. Answer these questions:
-  * Who is your user? 
-  * What is your idea? How will it help your user solve a problem or achieve a goal?
+  * What is your idea? 
+  * Who is your user? How will your project help your user solve a problem or achieve a goal?
   * What technologies would you use that we haven't gone over (if any)?
   
 3. No slides. You may use the whiteboard to draw any visuals you need.
