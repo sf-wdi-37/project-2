@@ -88,15 +88,15 @@ If you want to push yourself and learn something new, optionally consider doing 
 
 ## Deadlines
 
-* **Thursday, October 13th, by 4:30pm** - [Project planning deliverables](#project-planning-deliverables) due! Get your project plan approved by end of day so you can get started coding!
+* **Tuesday, February 7th, by 4:30pm** - [Project planning deliverables](#project-planning-deliverables) due! Get your project plan approved by end of day so you can get started coding!
 
-* **Thursday, October 20th, 1:15pm** - [Completed project deliverables](#completed-project-deliverables) due and presentations!
+* **Tuesday, Feburary 14th, 1:15pm** - [Completed project deliverables](#completed-project-deliverables) due and presentations!
 
 
-
+<!-- 
 ## Presentation Guidelines
 
-Each group will present their project on **Thursday, October 20th** starting at **1:15pm**. Please follow these guidelines:
+Each group will present their project on **Tuesday, Feburary 14th** starting at **1:15pm**. Please follow these guidelines:
 
 * **Maximum 20 minutes.**
 * **Minimum 5 slides.** 
@@ -110,7 +110,7 @@ Each group will present their project on **Thursday, October 20th** starting at 
   * Walk through the development of one feature from ideation to execution. At minimum, this should include wireframes, code samples, and the final result.
   
 **Each member of your group should speak for equal parts during your presentation** and mention which parts of the project they worked on.
-
+-->
 
 ## Project Feedback
 
