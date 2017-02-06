@@ -6,7 +6,7 @@
 
 For this project, you will use your knowledge of front-end and back-end web development to produce a polished Rails web application that can be used by friends, family, or the wider online community -- and that will benefit your portfolio.
 
-**You will be working in groups of 4 for this project.**
+**You will be working in groups of 3-4 for this project.**
 
 ## Deliverables
 
