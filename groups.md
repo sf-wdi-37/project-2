@@ -1,21 +1,18 @@
 # Project 2 Groups
 
-###Easier than Schoology  (Brianna)  
+### GA Hackathon  (Cory)  
 -  Alex  
 -  Greice  
 -  Shiv    
 -  Zach  
   
-###GA Hackathon  (Cory)  
+### Easier than Schoology  (Brianna)
 -  LD
 -  Mike
 -  Ricardo 
 -  RJ
   
-###Scavenger Hunt  (Cory)  
+### Scavenger Hunt  (Cory)  
 -  Aaron  
 -  Amber  
 -  Ryan  
-
-  
-
