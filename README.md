@@ -115,4 +115,4 @@ Each group will present their project on **Tuesday, Feburary 14th** starting at 
 
 ## Project Feedback
 
-See the [feedback doc](./project2-feedback.md) for details.
+See the [feedback doc](./feedback.md) for details.
