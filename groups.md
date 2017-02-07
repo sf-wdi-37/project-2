@@ -1,21 +1,21 @@
 # Project 2 Groups
 
-###Project  (Instructor)  
--  Dev
--  Dev
--  Dev  
--  Dev
+###Easier than Schoology  (Brianna)  
+-  Alex  
+-  Greice  
+-  Shiv    
+-  Zach  
   
-###Project  (Instructor)  
--  Dev
--  Dev
--  Dev  
--  Dev
+###GA Hackathon  (Cory)  
+-  LD
+-  Mike
+-  Ricardo 
+-  RJ
   
-###Project  (Instructor)  
--  Dev
--  Dev
--  Dev  
--  Dev
+###Scavenger Hunt  (Cory)  
+-  Aaron  
+-  Amber  
+-  Ryan  
+
   
 
