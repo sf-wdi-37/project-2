@@ -99,7 +99,7 @@ If you want to push yourself and learn something new, optionally consider doing 
 
 Each group will present their project on **Tuesday, Feburary 14th** starting at **1:15pm**. Please follow these guidelines:
 
-* **Maximum 20 minutes.**
+* **Duration 15-20 minutes.**
 * **Minimum 5 slides.** 
 * **Presentation should include:**
   * Who is the user?
@@ -108,7 +108,7 @@ Each group will present their project on **Tuesday, Feburary 14th** starting at 
   * User stories
   * ERDs
   * Demo of some interesting feature, something unique or creative your group chose to do
-  * Walk through the development of one feature from ideation to execution. At minimum, this should include wireframes, code samples, and the final result.
+  * Walk through the development of one piece of code for each teammate, in depth. This should include the plan, the implementation, and the result. 
   
 **Each member of your group should speak for equal parts during your presentation** and mention which parts of the project they worked on.
 
