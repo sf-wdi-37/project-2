@@ -94,7 +94,7 @@ If you want to push yourself and learn something new, optionally consider doing 
 * **Tuesday, Feburary 14th, 1:15pm** - [Completed project deliverables](#completed-project-deliverables) due and presentations!
 
 
-<!-- 
+
 ## Presentation Guidelines
 
 Each group will present their project on **Tuesday, Feburary 14th** starting at **1:15pm**. Please follow these guidelines:
@@ -111,7 +111,7 @@ Each group will present their project on **Tuesday, Feburary 14th** starting at 
   * Walk through the development of one feature from ideation to execution. At minimum, this should include wireframes, code samples, and the final result.
   
 **Each member of your group should speak for equal parts during your presentation** and mention which parts of the project they worked on.
--->
+
 
 ## Project Feedback
 
