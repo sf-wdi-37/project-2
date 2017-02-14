@@ -17,12 +17,6 @@
   - code demonstrates good problem solving
   - code is DRY
 1. Technical requirements
-  - users are authenticated
-  - full CRUD for cities
-  - custom HTML, CSS, and JavaScript (using the asset pipeline)
-  - users are authorized
-  - deployed to heroku
-  - commenting (optional)
 1. Creativity
   - polished appearance
   - personalized spin, not just a template
