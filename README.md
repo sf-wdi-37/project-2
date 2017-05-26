@@ -89,9 +89,9 @@ If you want to push yourself and learn something new, optionally consider doing 
 
 ## Deadlines
 
-* **Tuesday, February 7th, by 4:30pm** - [Project planning deliverables](#project-planning-deliverables) due! Get your project plan approved by end of day so you can get started coding!
+* **Tuesday, May 30th, by 5pm** - [Project planning deliverables](#project-planning-deliverables) due! Get your project plan approved by end of day so you can get started coding!
 
-* **Tuesday, Feburary 14th, 1:15pm** - [Completed project deliverables](#completed-project-deliverables) due and presentations!
+* **Monday, June 5th, 1:30pm** - [Completed project deliverables](#completed-project-deliverables) due and presentations!
 
 
 
@@ -108,7 +108,7 @@ Each group will present their project on **Tuesday, Feburary 14th** starting at 
   * User stories
   * ERDs
   * Demo of some interesting feature, something unique or creative your group chose to do
-  * Walk through the development of one piece of code for each teammate, in depth. This should include the goal, the implementation, and the result. 
+  * **Walk through the development of one piece of code for each teammate, in depth**. This should include the goal, the implementation, and the result. 
   
 **Each member of your group should speak for equal parts during your presentation** and mention which parts of the project they worked on.
 
