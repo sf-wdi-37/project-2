@@ -25,7 +25,7 @@ For this project, you will use your knowledge of front-end and back-end web deve
 ### Completed Project Deliverables
 
 * Link to Heroku hosted project, with all core technical requirements and correct number of flexible technical requirements complete.
-* Link to on each team member's personal site to the hosted project.
+* Link to on each team member's personal portfolio site to the hosted project.
 * A link on the GitHub repo to the hosted project. 
 * A `README.md` file with the following:
   * Description: Short paragraph (2-3 sentences) "elevator pitch" describing what your project does
@@ -46,6 +46,7 @@ For this project, you will use your knowledge of front-end and back-end web deve
 * **Data Models** Include at least two data models with associations.
 * **Data Validation:** Your application should validate incoming data before entering it into the database.
 * **Error Handling:** Forms in your application should also validate data, handle incorrect inputs, and provide user feedback on the client side.
+* **Authentication & Authorization** Allow users to sign up, log in, log out, and access restricted portions of the site. 
 * **Views:** Use **partials** to follow DRY (Don’t Repeat Yourself) development in your views.
 * **Home & About Pages:** Create a landing page (homepage) that clearly explains your app's value proposition and guides the user through the "get started" funnel. Create an about page that includes photos and brief bios of your team members.
 * **User Experience:** Ensure a pleasing and logical user experience. Have at least one person from outside your team attempt to use your project, noting points of confusion.
@@ -55,9 +56,8 @@ For this project, you will use your knowledge of front-end and back-end web deve
 
 ### Flexible Technical Requirements
 
-**Your app should have 3 out of the 6 following options:**
+**Your app should have 2 out of the 5 following options:**
 
-* **Authentication & Authorization** Allow users to sign up, log in, log out, and access restricted portions of the site. 
 * **External API** Use HTTParty or a third-party API gem to integrate third-party data into your app. Remember to hide secret keys!
 * **JavaScript & jQuery:** Add dynamic behavior with event-driven functionality on the client side.
 * **User-Friendly URLs:** Make "pretty" URLs that don't expose database IDs. Consider using a gem like FriendlyId.
@@ -97,7 +97,7 @@ If you want to push yourself and learn something new, optionally consider doing 
 
 ## Presentation Guidelines
 
-Each group will present their project on **Tuesday, Feburary 14th** starting at **1:15pm**. Please follow these guidelines:
+Each group will present their project on **Monday, June 5th** starting at **1:30pm**. Please follow these guidelines:
 
 * **Duration 15-20 minutes.**
 * **Minimum 5 slides.** 
