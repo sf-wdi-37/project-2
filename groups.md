@@ -1,6 +1,6 @@
 # Project 2 Groups
 
-## Team
+## Team - LifeBetter
 
 Addy  
 Jane  
