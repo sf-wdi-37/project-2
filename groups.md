@@ -1,3 +1,15 @@
 # Project 2 Groups
 
-## TBD
+## Team
+
+Addy  
+Jane  
+Julie  
+Michael  
+
+## Team
+
+Kevin  
+Mahmoud  
+Sejin  
+Will  
